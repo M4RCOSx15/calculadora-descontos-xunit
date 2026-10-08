@@ -156,7 +156,7 @@ Projeto desenvolvido de forma colaborativa por:
 | Nome | GitHub |
 |---|---|
 | Marcos | [@M4RCOSx15](https://github.com/M4RCOSx15) |
-| Michelle | MicheleUai (https://github.com/MicheleUai) |
+| Michelle | [@MicheleUai](https://github.com/MicheleUai) |
 | Vinícius Henrique Diniz Bento | [@Viniciushdb](https://github.com/Viniciushdb) |
 
 ### Fluxo de colaboração
