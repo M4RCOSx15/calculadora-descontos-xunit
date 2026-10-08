@@ -1,0 +1,39 @@
+## Build outputs
+[Bb]in/
+[Oo]bj/
+
+## .NET specific
+*.user
+*.suo
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+## NuGet packages
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Rider
+.idea/
+*.sln.iml
+
+## Visual Studio
+.vs/
+*.rsuser
+*.cache
+
+## VS Code
+.vscode/
+
+## OS generated
+.DS_Store
+Thumbs.db
